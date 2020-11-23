@@ -11,3 +11,5 @@ Steps to run the project:
 2. Open terminal and run `go install`
 3. Run `go build .`
 4. Start the application `./go-sqlite.exe`
+
+## Available API Endpoints
